@@ -1,13 +1,5 @@
-<div id="user-content-toc">
-  <ul align="center" style="list-style: none;">
-    <summary>
-      <h1 align="center">Hi 👋 I'm <a href="https://github.com/kotteein">Kotteein</a></h1>
-      <br />
-      <h2 align="center">Web Developer and just a funny person 📡</h2>
-    </summary>
-  </ul>
-</div>
-
+<h1 align="center"><p>Hi 👋 I'm <a href="https://github.com/kotteein">Kotteein</a></p></h1>
+<h2 align="center"><p>Web Developer and just a funny person 📡</p></h2>
 
 <h3>About</h3>
 <ul>

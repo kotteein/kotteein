@@ -1,5 +1,12 @@
-<h1 align="center" id="user-content-toc">Hi 👋 I'm <a href="https://github.com/kotteein">Kotteein</a></h1>
-<h2 align="center" id="user-content-toc" >Web Developer and just a funny person 📡</h2>
+<div id="user-content-toc">
+  <ul align="center" style="list-style: none;">
+    <summary>
+      <h1>Hi 👋 I'm <a href="https://github.com/kotteein">Kotteein</a></h1>
+      <h2>Web Developer and just a funny person 📡</h2>
+    </summary>
+  </ul>
+</div>
+
 
 <h3>About</h3>
 <ul>

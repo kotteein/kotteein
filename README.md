@@ -1,8 +1,9 @@
 <div id="user-content-toc">
   <ul align="center" style="list-style: none;">
     <summary>
-      <h1>Hi 👋 I'm <a href="https://github.com/kotteein">Kotteein</a></h1>
-      <h2>Web Developer and just a funny person 📡</h2>
+      <h1 align="center">Hi 👋 I'm <a href="https://github.com/kotteein">Kotteein</a></h1>
+      <br />
+      <h2 align="center">Web Developer and just a funny person 📡</h2>
     </summary>
   </ul>
 </div>

@@ -10,14 +10,6 @@
     <li>🦄 I'm open to collaborating on interesting projects</li>
 </ul>
 
-<h3>Hobbies</h3>
-<ul>
-    <li>🌐 Web Development</li>
-    <li>🪛 Microelectronics</li>
-    <li>🚶 Walks outside the house</li>
-    <li>🎮 Gaming</li>
-</ul>
-
 <h3>Skills</h3>
 <div>
     &nbsp;&nbsp;&nbsp;&nbsp;

@@ -1,4 +1,4 @@
-<h1 align="center"><p>Hi 👋 I'm <a href="https://github.com/kotteein">Kotteein</a></p></h1>
+<h1 align="center"><p>Hi 👋 I'm <a href="https://github.com/kotteein">Michael Chadaev</a></p></h1>
 <h2 align="center"><p>Web Developer and just a funny person 📡</p></h2>
 
 <h3>About</h3>
